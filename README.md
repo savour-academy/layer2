@@ -1,5 +1,7 @@
 # layer2
 
+本教程由 The Web3 社区出品, DappLink 赞助
+
 [![DappLink](https://raw.githubusercontent.com/eniac-x-labs/.github/main/profile/dapplink.jpeg)](https://www.dapplink.xyz/zh)
 
 
